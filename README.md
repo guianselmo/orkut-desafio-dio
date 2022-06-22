@@ -1,4 +1,4 @@
-# Oi, tudo bem? Meu nome é Guilherme 🙃
+# Oi, tudo bem? Meu nome é Guilherme Anselmo
 
 Esse é um repositório desafio do bootcamp da plataforma DIO,
 foi proposto no desafio recriar a página inicial do instagram,
