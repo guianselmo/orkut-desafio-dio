@@ -13,4 +13,4 @@ layout para nosso querido Orkut.
 
 ### Build:
 
-* HTML e CSS (Puro)
+* HTML e CSS
