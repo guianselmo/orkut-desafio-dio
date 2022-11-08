@@ -1,7 +1,7 @@
 Esse é um repositório desafio do bootcamp da plataforma DIO,
 foi proposto no desafio recriar a página inicial do instagram,
 porém aproveitei para dar um toque de criatividade e criei um
-layout para nosso querido Orkut.
+layout para nosso querido legado Orkut.
 
 ### Meu Linkedin:
 
